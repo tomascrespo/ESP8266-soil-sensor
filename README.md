@@ -9,4 +9,4 @@ This is the "schematics"
 And this is a moisture graph made with Grafana from the sensor data (20 and 40 cm deep)
 ![27d moisture](https://github.com/tomascrespo/ESP8266-soil-sensor/assets/3028295/247e8e03-d10c-487e-8704-c72b8a507baf)
 
-Full history in my blog
+Full history in [my blog](https://tomascrespo.com/professional-soil-moisture-sensor-with-esp8266/)
